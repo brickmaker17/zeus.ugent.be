@@ -1,13 +1,13 @@
 ---
 title: "A blogpost on blogs"
 created_at: 15-08-2018
-description: Zeus blogt, maar zeusers blog ook! Ontdek hier wie waarover blogt!
+description: Zeus blogt, maar zeusers bloggen ook! Ontdek hier wie waarover blogt!
 author: Elo
 ---
 
 Sinds enkele jaren heeft Zeus een duidelijk onderscheid tussen de eventposts en effectieve blogposts.
-Ondertussen zijn er al talrijke posts geschreven door verschillende van onze leden, maar ook buiten de zeus blog om wordt er gescrheven!
-Deze post heeft als doel jullie op de hoogte brengen van de blogs geschreven door (ex-)zeusleden over allerlei onderwerpen.
+Ondertussen zijn er al talrijke posts geschreven door verschillende van onze leden, maar ook buiten de zeus blog om wordt er geschreven!
+Deze post heeft als doel jullie op de hoogte te brengen van de blogs geschreven door (ex-)zeusleden over allerlei onderwerpen.
 
 **Name:** Jasper Van der Jeugt
 
@@ -15,7 +15,7 @@ Deze post heeft als doel jullie op de hoogte brengen van de blogs geschreven doo
 
 **What is it about?** Cool things about Haskell, with added examples. Some things about coding/Haskell events. Oh, and photos!
 
-**Name:** Redfast
+**Name:** redfast00
 
 **Blog:** https://redfast00.github.io
 
